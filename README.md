@@ -1,5 +1,7 @@
 # Income Classification Project
 
+*TRY STREAMLIT APP HERE: https://friendotjava-adult-census-income-dashboard-skdgmi.streamlit.app/*
+
 This project classifies whether an individual's income exceeds $50K/year based on the Adult Census Income dataset. The classification task involves multiple machine learning models, hyperparameter tuning, and evaluation metrics to ensure robust performance.
 
 ## Dataset
